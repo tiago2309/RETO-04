@@ -165,4 +165,5 @@ match pais:
         print("país no identificado")
 ```
 
-Y listo!! De esa manera logramos realizar los 8 retos y adicional esta el archivo de los retos en VS Code.
+Y listo!! De esa manera logramos realizar los 8 retos.
+
