@@ -127,7 +127,7 @@ else:
 
 ## Capital según país (América)
 ### 8. Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado (Utilice match-case).
-Se pide el nombre de un país en minúsculas. Usando la estructura match-case (disponible desde Python 3.10), se comparan los valores contra una lista de países. Si hay coincidencia, se imprime la capital. Si no hay coincidencia, se imprime "país no identificado".
+Se pide el nombre de un país en minúsculas. Usando la estructura match-case, se comparan los valores contra una lista de países. Si hay coincidencia, se imprime la capital. Si no hay coincidencia, se imprime "país no identificado".
 
 ```
 pais = input("Ingrese el nombre de un país de América en minúsculas: ")
